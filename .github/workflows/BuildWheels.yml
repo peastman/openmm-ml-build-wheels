@@ -64,5 +64,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: openmmml-wheel-${{matrix.python-version}}
-          path: openmmml/dist
+          path: openmm-ml/dist
           retention-days: 10
