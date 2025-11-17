@@ -1,0 +1,5 @@
+openmm >= 8.4
+openmmtorch
+numpy
+wheel
+setuptools
