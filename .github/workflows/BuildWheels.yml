@@ -1,7 +1,7 @@
 name: OpenMM-ML-Build-Wheels
 
 env:
-  GIT_REVISION: '272202d'
+  GIT_REVISION: 'd50a6d5'
 
 on:
   push:
